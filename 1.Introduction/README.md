@@ -1,5 +1,5 @@
 # Introduction
-https://hugo0o3.github.io/37-dom-exploration-Hugo0O3/
+https://hugo0o3.github.io/37-dom-exploration-Hugo0O3/1.Introduction/index.html
 ## The concepts
 
 ### The DOM tree
