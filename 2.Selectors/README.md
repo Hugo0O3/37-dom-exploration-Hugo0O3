@@ -1,5 +1,5 @@
 # DOM Selectors
-https://hugo0o3.github.io/37-dom-exploration-Hugo0O3/
+https://hugo0o3.github.io/37-dom-exploration-Hugo0O3/2.Selectors/index.html
 
 You can access any elements from the DOM using the `querySelector` and `querySelectorAll` methods.
 
