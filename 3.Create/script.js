@@ -41,6 +41,6 @@ paraSort.sort(() => Math.random() - 0.5)
 article.innerHTML = ""
 article.appendChild(h2)
 
-paraSort.forEach((p) => article.appendChild(p))
+paraSort.forEach(p => article.appendChild(p))
 
 sections.forEach(section => article.appendChild(section))
